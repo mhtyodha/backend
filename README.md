@@ -1,1 +1,1 @@
-Backend to support spotify Oauth login utilizing Feathers: a javascript framework based on Express.
+Backend to enable spotify Oauth login using Feathers: a javascript framework based on Express.
